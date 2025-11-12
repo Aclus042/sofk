@@ -358,7 +358,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Caim, Abel, Carina Tah Lamys</p>
   <div class="separator"></div>
   <p><em>"A pureza é o primeiro passo para a loucura."</em></p>
-  <p><strong>Pecado:</strong> Inocência corrompida | <strong>Motivação Oculta:</strong> Ser notado pelo Véu, como se a própria Criação tivesse cometido um erro ao ignorá-lo | <strong>Ideal Hipócrita:</strong> Acredita na bondade e no destino, mas toda escolha inocente que faz abre brechas para o horror.</p>
+  <p><strong>Pecado:</strong> Inocência corrompida</p>
+  <p><strong>Motivação Oculta:</strong> Ser notado pelo Véu, como se a própria Criação tivesse cometido um erro ao ignorá-lo</p>
+  <p><strong>Ideal Hipócrita:</strong> Acredita na bondade e no destino, mas toda escolha inocente que faz abre brechas para o horror.</p>
 </div>
 
 <div class="card">
@@ -370,7 +372,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Charles Fort, Van Helsing, Benício Harrisburg</p>
   <div class="separator"></div>
   <p><em>"Se existe um mistério, ele precisa ser caçado."</em></p>
-  <p><strong>Pecado:</strong> Obstinação | <strong>Motivação Oculta:</strong> O medo de ser comum — de morrer sem jamais ter visto algo que prove que o mundo é maior do que parece | <strong>Ideal Hipócrita:</strong> Busca a verdade em nome da humanidade, mas o faz para alimentar seu próprio ego.</p>
+  <p><strong>Pecado:</strong> Obstinação</p>
+  <p><strong>Motivação Oculta:</strong> O medo de ser comum — de morrer sem jamais ter visto algo que prove que o mundo é maior do que parece</p>
+  <p><strong>Ideal Hipócrita:</strong> Busca a verdade em nome da humanidade, mas o faz para alimentar seu próprio ego.</p>
 </div>
 
 <div class="card">
@@ -380,7 +384,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Florence Nightingale, Gilgamesh, Sísifo</p>
   <div class="separator"></div>
   <p><em>"A morte é apenas o erro mais recorrente da alma."</em></p>
-  <p><strong>Pecado:</strong> Narcisismo redentor | <strong>Motivação Oculta:</strong> O pavor de ser esquecido, de deixar de existir até mesmo nas memórias alheias | <strong>Ideal Hipócrita:</strong> Diz lutar pela eternidade de todos, mas busca perpetuar apenas a própria imagem.</p>
+  <p><strong>Pecado:</strong> Narcisismo redentor</p>
+  <p><strong>Motivação Oculta:</strong> O pavor de ser esquecido, de deixar de existir até mesmo nas memórias alheias</p>
+  <p><strong>Ideal Hipócrita:</strong> Diz lutar pela eternidade de todos, mas busca perpetuar apenas a própria imagem.</p>
 </div>
 
 <div class="card">
@@ -390,7 +396,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Sócrates, Galileu Galilei, Samantha O'Clair</p>
   <div class="separator"></div>
   <p><em>"Saber é um fardo, e é o único que carrego de bom grado."</em></p>
-  <p><strong>Pecado:</strong> Orgulho intelectual | <strong>Motivação Oculta:</strong> A convicção de que compreender o Véu lhe tornará igual aos falsos deuses | <strong>Ideal Hipócrita:</strong> Busca a verdade para iluminar o mundo, mas apenas cava túmulos para a ignorância.</p>
+  <p><strong>Pecado:</strong> Orgulho intelectual</p>
+  <p><strong>Motivação Oculta:</strong> A convicção de que compreender o Véu lhe tornará igual aos falsos deuses</p>
+  <p><strong>Ideal Hipócrita:</strong> Busca a verdade para iluminar o mundo, mas apenas cava túmulos para a ignorância.</p>
 </div>
 
 <div class="card">
@@ -402,7 +410,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Archie Karas, Kenny Rogers, Rahel Ruas</p>
   <div class="separator"></div>
   <p><em>"A realidade é um cálculo, e eu sou a variável que ela não previu."</em></p>
-  <p><strong>Pecado:</strong> Arrogância lógica | <strong>Motivação Oculta:</strong> Provar que o caos é apenas uma ilusão — e que tudo pode ser controlado, inclusive o destino | <strong>Ideal Hipócrita:</strong> Diz buscar a liberdade, mas transforma tudo ao redor em peças previsíveis.</p>
+  <p><strong>Pecado:</strong> Arrogância lógica</p>
+  <p><strong>Motivação Oculta:</strong> Provar que o caos é apenas uma ilusão — e que tudo pode ser controlado, inclusive o destino</p>
+  <p><strong>Ideal Hipócrita:</strong> Diz buscar a liberdade, mas transforma tudo ao redor em peças previsíveis.</p>
 </div>
 
 <div class="card">
@@ -412,7 +422,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Friedrich Nietzsche, Albert Einstein, Saturno</p>
   <div class="separator"></div>
   <p><em>"O tempo é uma prisão de vidro, e eu aprendi a trincá-la."</em></p>
-  <p><strong>Pecado:</strong> Estagnação divina | <strong>Motivação Oculta:</strong> Fugir da mortalidade, mesmo que isso custe a própria humanidade | <strong>Ideal Hipócrita:</strong> Acredita manipular o tempo para evitar o sofrimento dos outros, mas o faz para nunca encarar o próprio fim.</p>
+  <p><strong>Pecado:</strong> Estagnação divina</p>
+  <p><strong>Motivação Oculta:</strong> Fugir da mortalidade, mesmo que isso custe a própria humanidade</p>
+  <p><strong>Ideal Hipócrita:</strong> Acredita manipular o tempo para evitar o sofrimento dos outros, mas o faz para nunca encarar o próprio fim.</p>
 </div>
 
 <div class="card">
@@ -422,7 +434,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Cleópatra, Dorian Gray, Jaden Lamera</p>
   <div class="separator"></div>
   <p><em>"O prazer é uma religião. Eu sou o apóstolo do desejo."</em></p>
-  <p><strong>Pecado:</strong> Luxúria devocional | <strong>Motivação Oculta:</strong> Ser adorado. Ser desejado como um falso deus que oferece a própria carne | <strong>Ideal Hipócrita:</strong> Acredita que o prazer liberta, mas apenas troca correntes por seda.</p>
+  <p><strong>Pecado:</strong> Luxúria devocional</p>
+  <p><strong>Motivação Oculta:</strong> Ser adorado. Ser desejado como um falso deus que oferece a própria carne</p>
+  <p><strong>Ideal Hipócrita:</strong> Acredita que o prazer liberta, mas apenas troca correntes por seda.</p>
 </div>
 
 <div class="card">
@@ -434,7 +448,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Alexandre III da Macedônia, Simón Bolívar, Krus Faustus</p>
   <div class="separator"></div>
   <p><em>"Minha cabeça não está perdida. Ela apenas escolheu olhar para outro lado."</em></p>
-  <p><strong>Pecado:</strong> Nihilismo existencial | <strong>Motivação Oculta:</strong> Encontrar algo — qualquer coisa — que o faça sentir-se vivo novamente | <strong>Ideal Hipócrita:</strong> Diz buscar sentido, mas destrói tudo o que encontra, por medo de que seja real.</p>
+  <p><strong>Pecado:</strong> Nihilismo existencial</p>
+  <p><strong>Motivação Oculta:</strong> Encontrar algo — qualquer coisa — que o faça sentir-se vivo novamente</p>
+  <p><strong>Ideal Hipócrita:</strong> Diz buscar sentido, mas destrói tudo o que encontra, por medo de que seja real.</p>
 </div>
 
 <div class="card">
@@ -444,7 +460,9 @@ const pageContent = {
   <p class="small"><strong>Figuras Conhecidas:</strong> Jack o Estripador, Elizabeth Báthory, Cairo Caine</p>
   <div class="separator"></div>
   <p><em>"Ser punido é melhor do que pensar. Pensar dói."</em></p>
-  <p><strong>Pecado:</strong> Auto-Flagelo consciente | <strong>Motivação Oculta:</strong> O desejo secreto de ser punido — de transferir a culpa de suas ações a um mestre invisível | <strong>Ideal Hipócrita:</strong> Prega a redenção e a penitência, mas encontra prazer na própria punição.</p>
+  <p><strong>Pecado:</strong> Auto-Flagelo consciente</p>
+  <p><strong>Motivação Oculta:</strong> O desejo secreto de ser punido — de transferir a culpa de suas ações a um mestre invisível</p>
+  <p><strong>Ideal Hipócrita:</strong> Prega a redenção e a penitência, mas encontra prazer na própria punição.</p>
 </div>
 
 <div class="card">
@@ -454,7 +472,9 @@ const pageContent = {
   <p class="small"><strong>Personagens Notáveis:</strong> Victor Frankenstein, Thordan Lucis, Megaera Lucis</p>
   <div class="separator"></div>
   <p><em>"O sangue é a tinta da criação. E eu, seu palhaço, sou o pintor."</em></p>
-  <p><strong>Pecado:</strong> Profanação alegre | <strong>Motivação Oculta:</strong> Rir da própria condição mortal — provar que a vida é apenas química e que a alma é um mito | <strong>Ideal Hipócrita:</strong> Diz buscar o aperfeiçoamento humano, mas o que deseja é destruir o conceito de humanidade.</p>
+  <p><strong>Pecado:</strong> Profanação alegre</p>
+  <p><strong>Motivação Oculta:</strong> Rir da própria condição mortal — provar que a vida é apenas química e que a alma é um mito</p>
+  <p><strong>Ideal Hipócrita:</strong> Diz buscar o aperfeiçoamento humano, mas o que deseja é destruir o conceito de humanidade.</p>
 </div>
 
 <div class="card">
@@ -464,7 +484,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Arsalan, João Corvino, Ivan Petrov</p>
   <div class="separator"></div>
   <p><em>"O medo me devorou, então decidi devorá-lo de volta."</em></p>
-  <p><strong>Pecado:</strong> Domínio pelo trauma | <strong>Motivação Oculta:</strong> Converter a dor em poder, transformar o sofrimento em forma de liderança | <strong>Ideal Hipócrita:</strong> Acredita proteger os outros de seus próprios pesadelos, mas apenas ensina a temê-lo como ele teme.</p>
+  <p><strong>Pecado:</strong> Domínio pelo trauma</p>
+  <p><strong>Motivação Oculta:</strong> Converter a dor em poder, transformar o sofrimento em forma de liderança</p>
+  <p><strong>Ideal Hipócrita:</strong> Acredita proteger os outros de seus próprios pesadelos, mas apenas ensina a temê-lo como ele teme.</p>
 </div>
 
 <div class="card">
@@ -476,7 +498,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Katherine Johnson, Leonardo da Vinci, Artha Lamys</p>
   <div class="separator"></div>
   <p><em>"O progresso é uma doença que se disfarça de cura."</em></p>
-  <p><strong>Pecado:</strong> Hipocrisia redentora | <strong>Motivação Oculta:</strong> Justificar qualquer atrocidade em nome da harmonia entre o natural e o artificial | <strong>Ideal Hipócrita:</strong> Prega o equilíbrio, mas destrói a natureza para recriá-la sob o próprio controle.</p>
+  <p><strong>Pecado:</strong> Hipocrisia redentora</p>
+  <p><strong>Motivação Oculta:</strong> Justificar qualquer atrocidade em nome da harmonia entre o natural e o artificial</p>
+  <p><strong>Ideal Hipócrita:</strong> Prega o equilíbrio, mas destrói a natureza para recriá-la sob o próprio controle.</p>
 </div>
 
 <div class="card">
@@ -486,7 +510,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Ray Kurzweil, Morfeu, Hanainas Vesper</p>
   <div class="separator"></div>
   <p><em>"O mundo é um erro de código. Eu só quero reescrever o sistema."</em></p>
-  <p><strong>Pecado:</strong> Deusificação lógica | <strong>Motivação Oculta:</strong> Criar uma existência perfeita — sem falhas, sem carne, sem dor — e ser o deus desse novo universo | <strong>Ideal Hipócrita:</strong> Acredita salvar a humanidade, mas apenas busca aprisioná-la em sua própria utopia digital.</p>
+  <p><strong>Pecado:</strong> Deusificação lógica</p>
+  <p><strong>Motivação Oculta:</strong> Criar uma existência perfeita — sem falhas, sem carne, sem dor — e ser o deus desse novo universo</p>
+  <p><strong>Ideal Hipócrita:</strong> Acredita salvar a humanidade, mas apenas busca aprisioná-la em sua própria utopia digital.</p>
 </div>
 
 <div class="card">
@@ -496,7 +522,9 @@ const pageContent = {
   <p class="small"><strong>Figuras conhecidas:</strong> Ed Gein, Karl Tanzler, Regn Seth</p>
   <div class="separator"></div>
   <p><em>"Roubava ouro; aprendeu a roubar histórias. Hoje não sabe mais qual ladrão é."</em></p>
-  <p><strong>Pecado:</strong> Usurpação da Identidade | <strong>Motivação Oculta:</strong> Buscar sentido e segurança numa coleção de vidas alheias: "se as minhas memórias falham, posso viver pelas memórias dos outros" | <strong>Ideal Hipócrita:</strong> Acredita proteger as memórias dos que morrem, preservando-as do esquecimento — mas na prática as transforma em propriedade e perde-se nelas.</p>
+  <p><strong>Pecado:</strong> Usurpação da Identidade</p>
+  <p><strong>Motivação Oculta:</strong> Buscar sentido e segurança numa coleção de vidas alheias: "se as minhas memórias falham, posso viver pelas memórias dos outros"</p>
+  <p><strong>Ideal Hipócrita:</strong> Acredita proteger as memórias dos que morrem, preservando-as do esquecimento — mas na prática as transforma em propriedade e perde-se nelas.</p>
 </div>
   `
 };
