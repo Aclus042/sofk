@@ -254,9 +254,9 @@ const pageContent = {
 <div class="card">
   <h2>Morte e Transformação</h2>
   <div class="meta">Passagem • Mistério</div>
-  <p>A morte não é um fim absoluto em Shards of Fool Killer, mas uma transição. Cada morte adiciona camadas à alma, enriquecendo sua essência com novas experiências que serão absorvidas pelo Véu antes de seu retorno.</p>
+  <p>A morte não é um fim absoluto em Shards of Fool Killer, mas uma transição. Cada morte adiciona camadas à alma, adicioando em sua essência novas experiências que serão absorvidas pelo Véu antes de seu retorno.</p>
   <div class="separator"></div>
-  <p>Essa constante renovação mantém o equilíbrio entre os tecidos da existência, embora a maioria dos seres vivos nunca perceba o padrão infinito em que estão presos.</p>
+  <p>Essa constante troca de experiências entre os dois tecidos acontece o tempo todo, infinitas vezes por segundo, embora a maioria dos seres vivos nunca perceba o padrão infinito em que estão presos.</p>
 </div>
   `,
 
@@ -265,8 +265,6 @@ const pageContent = {
   <h2>Os Mundanos e os Espurcos</h2>
   <div class="meta">Sociedade • Divisão</div>
   <p>No universo de Shards of Fool Killer, a humanidade se divide entre aqueles que vivem ignorantes do Véu e aqueles que foram tocados por ele. Os <strong>Mundanos</strong> são a maioria — pessoas comuns que seguem suas vidas sem conhecer as forças ocultas. Os <strong>Espurcos</strong> são aqueles que despertaram para suas vidas passadas e agora carregam o peso desse conhecimento proibido.</p>
-  <div class="separator"></div>
-  <p class="small">Essa divisão define o conflito central do mundo: ignorância versus conhecimento, normalidade versus poder, mortalidade versus eternidade.</p>
 </div>
 
 <div class="card">
@@ -288,9 +286,9 @@ const pageContent = {
 <div class="card">
   <h2>Auras e Manifestações</h2>
   <div class="meta">Poder • Expressão</div>
-  <p>As Auras são a manifestação visível e energética da alma. Elas funcionam como assinaturas únicas de cada indivíduo, carregando ecos de suas vidas passadas, emoções presentes e potencial futuro.</p>
+  <p>As Auras são a manifestação energética da alma. Elas funcionam como assinaturas únicas de cada indivíduo, carregando ecos de suas vidas passadas, ambições  e traumas presentes e potencial futuro.</p>
   <div class="separator"></div>
-  <p class="small">Espurcos treinados conseguem ler, manipular e até interagir com as auras de outros, tornando-se capazes de influenciar realidades ou estabelecer conexões profundas entre dimensões.</p>
+  <p class="small">Espurcos extremamente treinados conseguem ler, manipular e até interagir com as auras de outros, tornando-se capazes de influenciar em cada individuo de forma intima demais. Apesar do desafio, essa é uma ferramenta de grande aposta entre os espurcos, decisiva em diversas relações sociais.</p>
 </div>
   `,
 
