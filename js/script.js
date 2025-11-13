@@ -56,7 +56,7 @@ const pageContent = {
   <div class="meta">Visual • Corrupção</div>
   <p>O look and feel de Shards of Fool Killer é onde a ambiência sombria ganha vida. Os personagens, chamados de <strong>"Espurcos"</strong> — um termo que remete ao sujo, ao vil — carregam essa essência em cada aspecto de suas existências. Não importa a origem ou a beleza de suas histórias; todos cresceram manchados, corrompidos.</p>
   <div class="separator"></div>
-  <p>O crescimento dos personagens é marcado por uma escolha cruel: o caminho mais fácil para sobreviver é <em>se corromper</em>, entregando-se às sombras. Caso contrário, as cicatrizes emocionais e físicas que eles acumulam serão tão dolorosas que tocar nelas se tornará insuportável.</p>
+  <p>O crescimento dos personagens é marcado por uma escolha cruel: o caminho mais fácil para sobreviver é <em>se corromper</em>, entregando-se às sombras. Caso contrário, as cicatrizes emocionais e físicas que eles acumulam serão tão dolorosas que tocar nelas se tornará insuportável. Esse processo de degeneração também os torna vulneráveis a eventos anômalos, como possessões, manipulações ou até a traição de seus próprios corpos em momentos cruciais. Eles são, literalmente, destruídos por dentro.</p>
 </div>
 
 <div class="card">
