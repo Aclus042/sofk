@@ -103,21 +103,21 @@ const pageContent = {
   <div class="meta">Fundamentos • Plano Físico</div>
   <p>No universo de Shards of Fool Killer, a existência é composta por diferentes "tecidos" ou camadas, e o <strong>Tecido da Realidade</strong> é o mais tangível e compreensível deles. Ele é o plano em que vivemos nossas vidas comuns, regido pelas leis da física e pela lógica que define o mundo material.</p>
   <div class="separator"></div>
-  <p>Enquanto outras camadas, como o Véu, operam em esferas espirituais e abstratas, o Tecido da Realidade é a base sobre a qual a existência física se constrói. Contudo, mesmo sendo o domínio daquilo que é percebido pelos sentidos humanos, ele não está completamente isolado das influências de outros tecidos.</p>
+  <p>Enquanto outras camadas, como o Véu, operam em esferas espirituais e abstratas, o Tecido da Realidade é a base sobre a qual a existência física se constrói. Contudo, mesmo sendo o domínio daquilo que é percebido pelos sentidos humanos, ele não está completamente isolado das influências de outros tecidos. Sua coexistência com forças ocultas, como o Véu, torna este mundo familiar uma arena de constante tensão entre o visível e o invisível, o conhecido e o inefável.</p>
 </div>
 
 <div class="card">
   <h2>A Natureza do Plano Material</h2>
   <div class="meta">Leis • Ordem</div>
-  <p>O Tecido da Realidade obedece rigidamente às leis da física, como a gravidade, a termodinâmica e o tempo linear. O mundo material é ordenado, previsível e governado por processos racionais, ao menos em sua superfície visível. Tudo que conhecemos — cidades, florestas, mares, montanhas — é parte desse tecido.</p>
+  <p>O Tecido da Realidade, como é conhecido pelos mortais e pelos seres conscientes, é o domínio onde a maioria das interações diárias acontece. Esse tecido obedece rigidamente às leis da física, como a gravidade, a termodinâmica e o tempo linear. O mundo material é ordenado, previsível e governado por processos racionais, ao menos em sua superfície visível. Tudo que conhecemos — cidades, florestas, mares, montanhas — é parte desse tecido, compondo o mundo que a humanidade ocupa.</p>
   <div class="separator"></div>
-  <p class="small">No entanto, esse equilíbrio e a sensação de normalidade são ilusórios. Sob essa camada de ordem, há fissuras, momentos em que o Tecido da Realidade interage, por acidente ou propósito, com outras camadas.</p>
+  <p class="small">No entanto, esse equilíbrio e a sensação de normalidade são ilusórios, especialmente dentro do contexto de Shards of Fool Killer. Sob essa camada de ordem, há fissuras, momentos em que o Tecido da Realidade interage, por acidente ou propósito, com outras camadas. O Véu, por exemplo, coexiste em paralelo e, ocasionalmente, se sobrepõe à realidade, resultando em distorções e fenômenos que desafiam as leis naturais. Esses momentos de contato são raros e perigosos, revelando a vulnerabilidade do Tecido da Realidade à corrupção e à influência de forças maiores.</p>
 </div>
 
 <div class="card">
   <h2>Interações com o Véu</h2>
   <div class="meta">Conexões • Influências</div>
-  <p>Apesar de ser uma camada independente, o Tecido da Realidade não existe em isolamento absoluto. Ele está em constante, embora invisível, relação com o Véu e outras camadas de existência. Interações sutis entre essas dimensões podem ter consequências enormes.</p>
+  <p>Apesar de ser uma camada independente, o Tecido da Realidade não existe em isolamento absoluto. Ele está em constante, embora invisível, relação com o Véu e outras camadas de existência. Interações sutis entre essas dimensões podem ter consequências enormes, mesmo que os habitantes da realidade comum nem sempre percebam isso.</p>
   <div class="separator"></div>
   <p>O Véu, em particular, exerce uma influência poderosa sobre a realidade, ainda que indireta. As emoções, crenças e medos das pessoas podem afetar o Véu, assim como as manifestações do Véu podem impactar o mundo físico. Esse contato entre as duas camadas gera fenômenos paranormais, aparições de entidades mitológicas ou distorções completas na própria realidade.</p>
 </div>
@@ -137,6 +137,8 @@ const pageContent = {
   <div class="separator"></div>
   <p>Isso pode ocorrer por meio de rituais que abrem fendas entre dimensões, experimentos tecnomânticos descontrolados, ou eventos catastróficos como guerras entre diferentes facções espurcas. As consequências variam de distúrbios sutis até catástrofes que alteram permanentemente o mundo físico.</p>
   <p class="small">Nessas ocasiões, a realidade pode ser invadida por entidades do Véu ou até por fragmentos de outras dimensões, causando mudanças drásticas no tecido da existência.</p>
+  <div class="separator"></div>
+  <p>Esses eventos podem alterar o tempo, espaço ou até a própria estrutura da vida, trazendo à tona horrores e anomalias que desafiam a compreensão humana. É nessas brechas, onde a realidade se torna frágil, que o esoterismo se aprofunda, buscando formas de restaurar ou manipular o equilíbrio entre as camadas.</p>
 </div>
 
 <div class="card">
@@ -153,6 +155,14 @@ const pageContent = {
   <p>Dentro de Shards of Fool Killer, o Tecido da Realidade é o campo onde a maior parte das aventuras dos jogadores se desenrola. É o mundo que eles conhecem e habitam, mas é também um mundo em constante tensão com o desconhecido.</p>
   <div class="separator"></div>
   <p>Aqui, os jogadores terão de enfrentar desafios que vão desde investigações de fenômenos sobrenaturais até conflitos entre facções que tentam impedir rupturas catastróficas entre as camadas da existência. A realidade pode parecer estável, mas por trás de sua fachada comum, forças imensas estão em jogo.</p>
+  <div class="separator"></div>
+  <p class="small">Cabe aos jogadores, como desvelados ou outras figuras poderosas, tentar proteger o mundo físico dessas forças que ameaçam sua destruição ou transformação. Ao mesmo tempo, eles devem navegar pelas complexas interações entre a realidade e o Véu, buscando manter o equilíbrio enquanto exploram os limites de suas próprias habilidades.</p>
+</div>
+
+<div class="card">
+  <h2>Conclusão</h2>
+  <div class="meta">Síntese • Essência</div>
+  <p>Em suma, o Tecido da Realidade é a âncora do mundo de Shards of Fool Killer. É o plano físico onde as interações diárias acontecem, mas também uma camada vulnerável a influências espirituais e sobrenaturais. Ele é, ao mesmo tempo, familiar e profundamente enigmático, sempre à mercê das forças sórdidas que o cercam, provando que mesmo aquilo que parece sólido pode se desfazer com um único toque vindo de além do Véu.</p>
 </div>
   `,
 
@@ -361,6 +371,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Inocência corrompida</p>
   <p><strong>Motivação Oculta:</strong> Ser notado pelo Véu, como se a própria Criação tivesse cometido um erro ao ignorá-lo</p>
   <p><strong>Ideal Hipócrita:</strong> Acredita na bondade e no destino, mas toda escolha inocente que faz abre brechas para o horror.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"A ausência de pecado é o terreno mais fértil para o mal florescer."</em></p>
 </div>
 
 <div class="card">
@@ -375,6 +387,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Obstinação</p>
   <p><strong>Motivação Oculta:</strong> O medo de ser comum — de morrer sem jamais ter visto algo que prove que o mundo é maior do que parece</p>
   <p><strong>Ideal Hipócrita:</strong> Busca a verdade em nome da humanidade, mas o faz para alimentar seu próprio ego.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"O herói da verdade é apenas um mentiroso que ainda não foi desmascarado."</em></p>
 </div>
 
 <div class="card">
@@ -387,6 +401,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Narcisismo redentor</p>
   <p><strong>Motivação Oculta:</strong> O pavor de ser esquecido, de deixar de existir até mesmo nas memórias alheias</p>
   <p><strong>Ideal Hipócrita:</strong> Diz lutar pela eternidade de todos, mas busca perpetuar apenas a própria imagem.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"A benevolência é só a vaidade disfarçada de piedade."</em></p>
 </div>
 
 <div class="card">
@@ -398,7 +414,9 @@ const pageContent = {
   <p><em>"Saber é um fardo, e é o único que carrego de bom grado."</em></p>
   <p><strong>Pecado:</strong> Orgulho intelectual</p>
   <p><strong>Motivação Oculta:</strong> A convicção de que compreender o Véu lhe tornará igual aos falsos deuses</p>
-  <p><strong>Ideal Hipócrita:</strong> Busca a verdade para iluminar o mundo, mas apenas cava túmulos para a ignorância.</p>
+  <p><strong>Ideal Hipócrita:</strong> Acredita que busca a verdade para iluminar o mundo, mas apenas cava túmulos para a ignorância - e enterra os vivos junto dela.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"O conhecimento é a luz que cega."</em></p>
 </div>
 
 <div class="card">
@@ -413,6 +431,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Arrogância lógica</p>
   <p><strong>Motivação Oculta:</strong> Provar que o caos é apenas uma ilusão — e que tudo pode ser controlado, inclusive o destino</p>
   <p><strong>Ideal Hipócrita:</strong> Diz buscar a liberdade, mas transforma tudo ao redor em peças previsíveis.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"A rebeldia que tudo quer libertar acaba escravizando o acaso."</em></p>
 </div>
 
 <div class="card">
@@ -425,6 +445,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Estagnação divina</p>
   <p><strong>Motivação Oculta:</strong> Fugir da mortalidade, mesmo que isso custe a própria humanidade</p>
   <p><strong>Ideal Hipócrita:</strong> Acredita manipular o tempo para evitar o sofrimento dos outros, mas o faz para nunca encarar o próprio fim.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"O medo de morrer é o que nos impede de viver."</em></p>
 </div>
 
 <div class="card">
@@ -437,6 +459,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Luxúria devocional</p>
   <p><strong>Motivação Oculta:</strong> Ser adorado. Ser desejado como um falso deus que oferece a própria carne</p>
   <p><strong>Ideal Hipócrita:</strong> Acredita que o prazer liberta, mas apenas troca correntes por seda.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"Quem se entrega à carne acaba devorado por ela."</em></p>
 </div>
 
 <div class="card">
@@ -451,6 +475,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Nihilismo existencial</p>
   <p><strong>Motivação Oculta:</strong> Encontrar algo — qualquer coisa — que o faça sentir-se vivo novamente</p>
   <p><strong>Ideal Hipócrita:</strong> Diz buscar sentido, mas destrói tudo o que encontra, por medo de que seja real.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"Quem procura demais por sentido, acaba cavando o próprio vazio."</em></p>
 </div>
 
 <div class="card">
@@ -463,6 +489,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Auto-Flagelo consciente</p>
   <p><strong>Motivação Oculta:</strong> O desejo secreto de ser punido — de transferir a culpa de suas ações a um mestre invisível</p>
   <p><strong>Ideal Hipócrita:</strong> Prega a redenção e a penitência, mas encontra prazer na própria punição.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"O arrependido só se ajoelha porque ama o chicote."</em></p>
 </div>
 
 <div class="card">
@@ -475,6 +503,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Profanação alegre</p>
   <p><strong>Motivação Oculta:</strong> Rir da própria condição mortal — provar que a vida é apenas química e que a alma é um mito</p>
   <p><strong>Ideal Hipócrita:</strong> Diz buscar o aperfeiçoamento humano, mas o que deseja é destruir o conceito de humanidade.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"A ciência sem alma é o riso mais alto do inferno."</em></p>
 </div>
 
 <div class="card">
@@ -487,6 +517,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Domínio pelo trauma</p>
   <p><strong>Motivação Oculta:</strong> Converter a dor em poder, transformar o sofrimento em forma de liderança</p>
   <p><strong>Ideal Hipócrita:</strong> Acredita proteger os outros de seus próprios pesadelos, mas apenas ensina a temê-lo como ele teme.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"Quem domina o medo se torna o próprio monstro que o causou."</em></p>
 </div>
 
 <div class="card">
@@ -501,6 +533,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Hipocrisia redentora</p>
   <p><strong>Motivação Oculta:</strong> Justificar qualquer atrocidade em nome da harmonia entre o natural e o artificial</p>
   <p><strong>Ideal Hipócrita:</strong> Prega o equilíbrio, mas destrói a natureza para recriá-la sob o próprio controle.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"O herói da humanidade é o carrasco do planeta."</em></p>
 </div>
 
 <div class="card">
@@ -513,6 +547,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Deusificação lógica</p>
   <p><strong>Motivação Oculta:</strong> Criar uma existência perfeita — sem falhas, sem carne, sem dor — e ser o deus desse novo universo</p>
   <p><strong>Ideal Hipócrita:</strong> Acredita salvar a humanidade, mas apenas busca aprisioná-la em sua própria utopia digital.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"Quem cria o paraíso sempre o faz sobre ossos."</em></p>
 </div>
 
 <div class="card">
@@ -525,6 +561,8 @@ const pageContent = {
   <p><strong>Pecado:</strong> Usurpação da Identidade</p>
   <p><strong>Motivação Oculta:</strong> Buscar sentido e segurança numa coleção de vidas alheias: "se as minhas memórias falham, posso viver pelas memórias dos outros"</p>
   <p><strong>Ideal Hipócrita:</strong> Acredita proteger as memórias dos que morrem, preservando-as do esquecimento — mas na prática as transforma em propriedade e perde-se nelas.</p>
+  <div class="separator"></div>
+  <p class="small"><em>"Esses não roubaram cadáveres — mas roubaram ideias, lembranças e identidade."</em></p>
 </div>
   `
 };
