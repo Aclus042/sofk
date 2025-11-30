@@ -11,12 +11,37 @@ const pageContent = {
 </div>
 
 <div class="card">
+  <h2>Os Três Pilares</h2>
+  <div class="meta">Fundamentos • Essência</div>
+  
+  <div class="stat-grid">
+    <div class="stat-block">
+      <div class="stat-value">🌑</div>
+      <div class="stat-label">Fantasia Sombria</div>
+    </div>
+    <div class="stat-block">
+      <div class="stat-value">💔</div>
+      <div class="stat-label">Drama Pessoal</div>
+    </div>
+    <div class="stat-block">
+      <div class="stat-value">⚔️</div>
+      <div class="stat-label">Discórdia</div>
+    </div>
+  </div>
+</div>
+
+<div class="card card-red">
   <h2>Fantasia Sombria e Low Fantasy</h2>
   <div class="meta">Atmosfera • Niilismo</div>
   <p>Apesar da ambientação fantasiosa e mística, Shards of Fool Killer se enquadra no gênero de <em>fantasia low fantasy</em> e sua fantasia sombria é <strong>mórbida e niilista</strong>. Por mais vasto e mágico que o mundo seja, o poder da magia não está disponível de forma abundante ou gloriosa.</p>
-  <div class="separator"></div>
-  <p>Uma das regras do Esoterismo afirma: <strong>"Quanto mais você olha através do Véu, mais escuridão cresce dentro de você"</strong>. E essa escuridão revela algo profundo: o passado do Espurco, uma antiga vida que habitava a mesma alma que agora reside em seu corpo.</p>
-  <p class="small">A magia pode ser grandiosa e viva, mas os personagens permanecem pequenos, minúsculos e insignificantes diante dela.</p>
+  
+  <div class="highlight gold mt-1">
+    <p><strong>"Quanto mais você olha através do Véu, mais escuridão cresce dentro de você"</strong></p>
+  </div>
+  
+  <p class="mt-1">Essa escuridão revela algo profundo: o passado do Espurco, uma antiga vida que habitava a mesma alma que agora reside em seu corpo.</p>
+  
+  <div class="quote">A magia pode ser grandiosa e viva, mas os personagens permanecem pequenos, minúsculos e insignificantes diante dela.</div>
 </div>
 
 <div class="card">
@@ -24,23 +49,40 @@ const pageContent = {
   <div class="meta">Temática • Insignificância</div>
   <p>O drama pessoal de cada personagem está ligado à busca por um lugar no mundo, apenas para descobrir que, no final, ele não é nada. Esse é o núcleo do drama em Shards of Fool Killer — a reflexão sobre a própria insignificância.</p>
   <div class="separator"></div>
-  <p>Mas a verdadeira questão que emerge é: <strong>o que o personagem fará após essa descoberta?</strong> Como reagir ao constatar que seu lugar no mundo é pequeno e irrelevante?</p>
+  <p>Mas a verdadeira questão que emerge é: <strong class="text-gold">o que o personagem fará após essa descoberta?</strong> Como reagir ao constatar que seu lugar no mundo é pequeno e irrelevante?</p>
 </div>
 
-<div class="card">
+<div class="card card-yellow">
   <h2>Visão de Jogo — Vidas Passadas</h2>
   <div class="meta">Conexão • Habilidades</div>
   <p>A conexão entre o Espurco e sua vida passada permite que ele acesse <em>habilidades, memórias e conhecimentos antigos</em>, além de se comunicar diretamente com quem foi em outra vida. Essa ligação se intensifica à medida que o Espurco desenvolve suas habilidades.</p>
+  
   <div class="separator"></div>
-  <p>Após o despertar dessa conexão, o Espurco muda para sempre, pois a interação entre suas duas versões — o atual e o passado — pode resultar em uma <strong>parceria imbatível</strong> ou em uma <strong>rivalidade devastadora</strong>. Essa relação dinâmica pode influenciar drasticamente as ações e decisões do Espurco.</p>
+  
+  <p>Após o despertar dessa conexão, o Espurco muda para sempre, pois a interação entre suas duas versões — o atual e o passado — pode resultar em:</p>
+  
+  <div class="stat-grid mt-1">
+    <div class="stat-block" style="border-color: var(--gold);">
+      <div class="stat-label">Parceria Imbatível</div>
+    </div>
+    <div class="stat-block" style="border-color: var(--accent);">
+      <div class="stat-label">Rivalidade Devastadora</div>
+    </div>
+  </div>
+  
+  <p class="mt-1 text-muted">Essa relação dinâmica pode influenciar drasticamente as ações e decisões do Espurco.</p>
 </div>
 
 <div class="card">
   <h2>Discórdia e Tensão</h2>
   <div class="meta">Conflito • Decisões</div>
   <p>E então vamos ao tópico de tensão, a <strong>discórdia</strong>, um elemento recorrente do jogo. Cada jogador tem objetivos e motivações diferentes, e uma "vozinha", semelhante a um diabinho interior, sussurra constantemente o que deve ser feito.</p>
-  <div class="separator"></div>
-  <p>Essa divergência interna gera confusão e dá origem aos chamados <em>"problemas das cordas"</em>, onde o jogador deve decidir entre fazer concessões ou abandonar períodos de paz para lutar por sua identidade. O resultado é um ambiente de tensão crescente, onde as decisões de cada jogador provocam um estresse que eleva a narrativa a níveis intensos.</p>
+  
+  <div class="highlight subtle mt-1">
+    <p>Essa divergência interna gera confusão e dá origem aos chamados <em>"problemas das cordas"</em>, onde o jogador deve decidir entre fazer concessões ou abandonar períodos de paz para lutar por sua identidade.</p>
+  </div>
+  
+  <p class="mt-1">O resultado é um ambiente de tensão crescente, onde as decisões de cada jogador provocam um estresse que eleva a narrativa a níveis intensos.</p>
 </div>
 
 <div class="card">
@@ -48,31 +90,41 @@ const pageContent = {
   <div class="meta">Ameaças • Escolhas</div>
   <p>As ações de um Espurco podem abrir portas para intrusões vindas de além do Véu, manifestadas através de rituais ou objetos amaldiçoados. Isso pode trazer à realidade eventos ou aberrações que precisam ser contidos antes que ameacem o Véu ou o próprio mundo.</p>
   <div class="separator"></div>
-  <p>Entretanto, nem sempre a solução será eliminar o que veio de lá. A verdadeira pergunta é: <strong>você terá o conhecimento necessário para discernir a melhor escolha?</strong> Será capaz de decidir o que deve ser feito diante dessas forças?</p>
+  <p>Entretanto, nem sempre a solução será eliminar o que veio de lá. A verdadeira pergunta é: <strong class="text-accent">você terá o conhecimento necessário para discernir a melhor escolha?</strong> Será capaz de decidir o que deve ser feito diante dessas forças?</p>
 </div>
 
-<div class="card">
+<div class="card card-red">
   <h2>Look and Feel — A Estética da Decadência</h2>
   <div class="meta">Visual • Corrupção</div>
   <p>O look and feel de Shards of Fool Killer é onde a ambiência sombria ganha vida. Os personagens, chamados de <strong>"Espurcos"</strong> — um termo que remete ao sujo, ao vil — carregam essa essência em cada aspecto de suas existências. Não importa a origem ou a beleza de suas histórias; todos cresceram manchados, corrompidos.</p>
-  <div class="separator"></div>
-  <p>O crescimento dos personagens é marcado por uma escolha cruel: o caminho mais fácil para sobreviver é <em>se corromper</em>, entregando-se às sombras. Caso contrário, as cicatrizes emocionais e físicas que eles acumulam serão tão dolorosas que tocar nelas se tornará insuportável. Esse processo de degeneração também os torna vulneráveis a eventos anômalos, como possessões, manipulações ou até a traição de seus próprios corpos em momentos cruciais. Eles são, literalmente, destruídos por dentro.</p>
+  
+  <div class="rule-box">
+    <h3>A Escolha Cruel</h3>
+    <p>O caminho mais fácil para sobreviver é <em>se corromper</em>, entregando-se às sombras.</p>
+    <p>Caso contrário, as cicatrizes emocionais e físicas que eles acumulam serão tão dolorosas que tocar nelas se tornará insuportável.</p>
+  </div>
+  
+  <p class="mt-1 text-muted">Esse processo de degeneração também os torna vulneráveis a eventos anômalos, como possessões, manipulações ou até a traição de seus próprios corpos em momentos cruciais. Eles são, literalmente, destruídos por dentro.</p>
 </div>
 
 <div class="card">
   <h2>Degeneração Visível</h2>
   <div class="meta">Aparência • Deterioração</div>
   <p>Visualmente, essa decadência se reflete nos personagens de forma clara. As paletas de cores são <strong>frias e depressivas</strong>, e o cansaço é onipresente. Mesmo que um ou outro personagem tente manter um semblante mais animado, traumas e o niilismo logo destroem essa fachada.</p>
-  <div class="separator"></div>
-  <p>É comum que os Espurcos estejam cobertos de feridas, hematomas, olheiras e marcas. Cabelos desgrenhados, tatuagens e barbas mal cuidadas, quando presentes, fazem parte da estética de alguém que não tem tempo, nem energia, para se cuidar. A aparência suja e negligenciada reforça a ideia de que eles estão sendo destruídos — pouco a pouco, se degradando.</p>
+  
+  <div class="highlight subtle mt-1">
+    <p>É comum que os Espurcos estejam cobertos de feridas, hematomas, olheiras e marcas. Cabelos desgrenhados, tatuagens e barbas mal cuidadas, quando presentes, fazem parte da estética de alguém que não tem tempo, nem energia, para se cuidar.</p>
+  </div>
+  
+  <p class="mt-1">A aparência suja e negligenciada reforça a ideia de que eles estão sendo destruídos — pouco a pouco, se degradando.</p>
 </div>
 
 <div class="card">
   <h2>Vícios e Vulnerabilidades</h2>
   <div class="meta">Consequências • Esgotamento</div>
   <p>Conforme a jornada avança, os personagens desenvolvem <em>vícios, manias e transtornos</em>, refletindo o impacto de suas experiências. Vulnerabilidades físicas, como anemia e doenças respiratórias ou cardiovasculares, também são parte dessa deterioração.</p>
-  <div class="separator"></div>
-  <p class="small">O estresse de viver neste mundo consome cada pedaço de sua vitalidade. A paleta fria e deprimente domina, mesmo quando cores mais quentes aparecem, sendo rapidamente atenuadas por tons mórbidos e decadentes. Tudo na aparência dos personagens grita desespero e esgotamento, como se a própria vida estivesse sendo drenada a cada momento.</p>
+  
+  <div class="quote">O estresse de viver neste mundo consome cada pedaço de sua vitalidade. A paleta fria e deprimente domina, mesmo quando cores mais quentes aparecem, sendo rapidamente atenuadas por tons mórbidos e decadentes. Tudo na aparência dos personagens grita desespero e esgotamento, como se a própria vida estivesse sendo drenada a cada momento.</div>
 </div>
   `,
 
@@ -81,19 +133,33 @@ const pageContent = {
   <h2>Conhecendo o Universo</h2>
   <div class="meta">Fundamentos • Ambientação</div>
   <p>Na seção "Conhecendo o Universo do Jogo", você vai explorar as regras e a ambientação que definem <strong>Shards of Fool Killer</strong>. É crucial lembrar que este RPG se desenrola em uma fantasia sombria dentro de um cenário <em>low fantasy</em>. Aqui, você estará imerso em um ambiente repleto de criaturas e horrores, lidando com temas sujos e mórbidos.</p>
-  <div class="separator"></div>
-  <p>Você, como jogador, será parte da base dessa pirâmide opressora, onde sua habilidade de alterar a realidade é fruto de eventos imprevisíveis, não de qualquer poder direto. O mundo é áspero, implacável e profundamente misterioso.</p>
+  
+  <div class="highlight subtle mt-1">
+    <p>Você, como jogador, será parte da base dessa pirâmide opressora, onde sua habilidade de alterar a realidade é fruto de eventos imprevisíveis, não de qualquer poder direto.</p>
+  </div>
+  
+  <p class="mt-1 text-muted">O mundo é áspero, implacável e profundamente misterioso.</p>
 </div>
 
-<div class="card">
+<div class="card card-yellow">
   <h2>Os Tecidos da Existência</h2>
   <div class="meta">Cosmologia • Camadas</div>
   <p>O jogo apresenta múltiplas camadas de existência, cada uma com suas próprias regras e características. As duas principais são:</p>
-  <div class="separator"></div>
-  <p><strong>O Tecido da Realidade</strong> — que segue as leis da física e onde o mundo de Shards se passa.</p>
-  <p><strong>O Véu</strong> — uma camada paralela e independente que coexiste com a realidade.</p>
-  <div class="separator"></div>
-  <p class="small">A origem do Véu é um mistério, mas suas interações com o mundo físico são notórias, reverberando de maneira imprevisível e afetando ambas as dimensões.</p>
+  
+  <div class="stat-grid mt-1">
+    <div class="stat-block">
+      <div class="stat-value">🌍</div>
+      <div class="stat-label">Tecido da Realidade</div>
+      <p class="text-muted" style="font-size: 0.8rem; margin-top: 0.5rem;">Segue as leis da física</p>
+    </div>
+    <div class="stat-block">
+      <div class="stat-value">👁️</div>
+      <div class="stat-label">O Véu</div>
+      <p class="text-muted" style="font-size: 0.8rem; margin-top: 0.5rem;">Camada paralela e independente</p>
+    </div>
+  </div>
+  
+  <div class="quote">A origem do Véu é um mistério, mas suas interações com o mundo físico são notórias, reverberando de maneira imprevisível e afetando ambas as dimensões.</div>
 </div>
   `,
 
@@ -238,25 +304,39 @@ const pageContent = {
 <div class="card">
   <h2>O Ciclo da Vida e da Morte</h2>
   <div class="meta">Reencarnação • Eternidade</div>
-  <p>Desde o início da vida, as almas seguem o <strong>Fluxo das Almas</strong>, ou Ciclo da Reencarnação. Uma alma nasce, vive, morre e, após a morte, é levada ao <em>Berço das Almas</em>, um lugar dentro do Véu.</p>
-  <div class="separator"></div>
-  <p>Lá, o Véu absorve todas as experiências da alma — suas memórias, emoções e vivências — até que ela esteja pronta para retornar à realidade em um novo corpo. No entanto, ao reencarnar, a alma não se lembra de suas vidas passadas, perpetuando o ciclo de renascimento.</p>
+  <p>Desde o início da vida, as almas seguem o <strong class="text-gold">Fluxo das Almas</strong>, ou Ciclo da Reencarnação.</p>
+  
+  <div class="flow mt-1">
+    <span class="flow-item">Nascimento</span>
+    <span class="flow-arrow">→</span>
+    <span class="flow-item">Vida</span>
+    <span class="flow-arrow">→</span>
+    <span class="flow-item">Morte</span>
+    <span class="flow-arrow">→</span>
+    <span class="flow-item" style="color: var(--gold);">Berço das Almas</span>
+    <span class="flow-arrow">→</span>
+    <span class="flow-item">Renascimento</span>
+  </div>
+  
+  <p class="mt-1">Lá, o Véu absorve todas as experiências da alma — suas memórias, emoções e vivências — até que ela esteja pronta para retornar à realidade em um novo corpo. No entanto, ao reencarnar, a alma não se lembra de suas vidas passadas, perpetuando o ciclo de renascimento.</p>
 </div>
 
-<div class="card">
+<div class="card card-yellow">
   <h2>O Fluxo das Almas</h2>
   <div class="meta">Jornada • Berço</div>
   <p>Quando uma pessoa morre, sua alma é transportada para o Véu, onde permanece até que seja enviada de volta à realidade para reencarnar. Esse ciclo continua indefinidamente, com a alma sempre retornando sem lembranças de suas vidas passadas.</p>
-  <div class="separator"></div>
-  <p class="small">O Berço das Almas funciona como um repositório de experiências, onde o Véu se alimenta e expande através das memórias acumuladas.</p>
+  
+  <div class="highlight subtle mt-1">
+    <p>O <strong>Berço das Almas</strong> funciona como um repositório de experiências, onde o Véu se alimenta e expande através das memórias acumuladas.</p>
+  </div>
 </div>
 
 <div class="card">
   <h2>Morte e Transformação</h2>
   <div class="meta">Passagem • Mistério</div>
-  <p>A morte não é um fim absoluto em Shards of Fool Killer, mas uma transição. Cada morte adiciona camadas à alma, adicioando em sua essência novas experiências que serão absorvidas pelo Véu antes de seu retorno.</p>
-  <div class="separator"></div>
-  <p>Essa constante troca de experiências entre os dois tecidos acontece o tempo todo, infinitas vezes por segundo, embora a maioria dos seres vivos nunca perceba o padrão infinito em que estão presos.</p>
+  <p>A morte não é um fim absoluto em Shards of Fool Killer, mas uma transição. Cada morte adiciona camadas à alma, adicionando em sua essência novas experiências que serão absorvidas pelo Véu antes de seu retorno.</p>
+  
+  <div class="quote">Essa constante troca de experiências entre os dois tecidos acontece o tempo todo, infinitas vezes por segundo, embora a maioria dos seres vivos nunca perceba o padrão infinito em que estão presos.</div>
 </div>
   `,
 
@@ -264,31 +344,54 @@ const pageContent = {
 <div class="card">
   <h2>Os Mundanos e os Espurcos</h2>
   <div class="meta">Sociedade • Divisão</div>
-  <p>No universo de Shards of Fool Killer, a humanidade se divide entre aqueles que vivem ignorantes do Véu e aqueles que foram tocados por ele. Os <strong>Mundanos</strong> são a maioria — pessoas comuns que seguem suas vidas sem conhecer as forças ocultas. Os <strong>Espurcos</strong> são aqueles que despertaram para suas vidas passadas e agora carregam o peso desse conhecimento proibido.</p>
+  <p>No universo de Shards of Fool Killer, a humanidade se divide entre aqueles que vivem ignorantes do Véu e aqueles que foram tocados por ele.</p>
+  
+  <div class="stat-grid mt-1">
+    <div class="stat-block">
+      <div class="stat-value">👤</div>
+      <div class="stat-label">Mundanos</div>
+      <p class="text-muted" style="font-size: 0.8rem; margin-top: 0.5rem;">Pessoas comuns, ignorantes do Véu</p>
+    </div>
+    <div class="stat-block" style="border-color: var(--accent);">
+      <div class="stat-value">🔥</div>
+      <div class="stat-label">Espurcos</div>
+      <p class="text-muted" style="font-size: 0.8rem; margin-top: 0.5rem;">Despertados para suas vidas passadas</p>
+    </div>
+  </div>
 </div>
 
-<div class="card">
+<div class="card card-yellow">
   <h2>As Vidas Passadas</h2>
   <div class="meta">Memória • Arquétipos</div>
   <p>Ao longo do tempo, as interações entre o Véu e a realidade deram origem a mitos, lendas e até deuses falsos. Emoções e crenças alimentam o Véu, que se expande à medida que novas pessoas nascem e conceitos inéditos surgem.</p>
-  <div class="separator"></div>
-  <p>Assim, <em>arquétipos de vidas passadas</em> se formam, estruturados pelas ações e feitos daqueles que viveram antes. Quando uma alma atinge o Berço das Almas, ela deixa sua marca no Véu, perpetuando o ciclo da reencarnação e ampliando o conceito de vidas passadas.</p>
+  
+  <div class="highlight subtle mt-1">
+    <p>Assim, <em>arquétipos de vidas passadas</em> se formam, estruturados pelas ações e feitos daqueles que viveram antes. Quando uma alma atinge o Berço das Almas, ela deixa sua marca no Véu, perpetuando o ciclo da reencarnação e ampliando o conceito de vidas passadas.</p>
+  </div>
 </div>
 
 <div class="card">
   <h2>O Conceito de Alma</h2>
   <div class="meta">Essência • Energia</div>
   <p>A alma é uma unidade de energias que armazena memórias e conhecimentos. Essa energia é compartilhada com os tecidos da realidade, em forma de uma encarnação em um ser vivo e no Véu, tornando o Véu mais capaz de entender e reproduzir uma informação que é experienciada pelas próprias almas.</p>
-  <div class="separator"></div>
-  <p>As energias que ecoam na Alma são chamadas de <strong>Auras</strong>, que podem canalizar sentimentos, intenções, memórias e formas diferentes. Uma aura pode se adaptar a situações diferentes, em quaisquer interações nos tecidos da existência.</p>
+  
+  <div class="rule-box">
+    <h3>As Auras</h3>
+    <p>As energias que ecoam na Alma são chamadas de <strong class="text-gold">Auras</strong>, que podem canalizar sentimentos, intenções, memórias e formas diferentes.</p>
+    <p>Uma aura pode se adaptar a situações diferentes, em quaisquer interações nos tecidos da existência.</p>
+  </div>
 </div>
 
-<div class="card">
+<div class="card card-blue">
   <h2>Auras e Manifestações</h2>
   <div class="meta">Poder • Expressão</div>
-  <p>As Auras são a manifestação energética da alma. Elas funcionam como assinaturas únicas de cada indivíduo, carregando ecos de suas vidas passadas, ambições  e traumas presentes e potencial futuro.</p>
-  <div class="separator"></div>
-  <p class="small">Espurcos extremamente treinados conseguem ler, manipular e até interagir com as auras de outros, tornando-se capazes de influenciar em cada individuo de forma intima demais. Apesar do desafio, essa é uma ferramenta de grande aposta entre os espurcos, decisiva em diversas relações sociais.</p>
+  <p>As Auras são a manifestação energética da alma. Elas funcionam como assinaturas únicas de cada indivíduo, carregando ecos de suas vidas passadas, ambições e traumas presentes e potencial futuro.</p>
+  
+  <div class="highlight mt-1">
+    <p>Espurcos extremamente treinados conseguem <strong>ler</strong>, <strong>manipular</strong> e até <strong>interagir</strong> com as auras de outros, tornando-se capazes de influenciar em cada indivíduo de forma íntima demais.</p>
+  </div>
+  
+  <p class="mt-1 text-muted">Apesar do desafio, essa é uma ferramenta de grande aposta entre os espurcos, decisiva em diversas relações sociais.</p>
 </div>
   `,
 
@@ -296,9 +399,16 @@ const pageContent = {
 <div class="card">
   <h2>Os Arquétipos e Facções</h2>
   <div class="meta">Estrutura Social • Poder</div>
-  <p>Dentro do universo de Shards of Fool Killer, existem quatro grandes arquétipos que representam as vidas passadas e as interações com o Véu: os <strong>Pacatos</strong>, os <strong>Desvelados</strong>, os <strong>Marcados pelas Correntes</strong> e os <strong>Tecnomantes</strong>.</p>
-  <div class="separator"></div>
-  <p>Cada um desses grupos traz consigo uma perspectiva única sobre a realidade e a magia, além de um papel específico dentro da sociedade oculta.</p>
+  <p>Dentro do universo de Shards of Fool Killer, existem quatro grandes arquétipos que representam as vidas passadas e as interações com o Véu:</p>
+  
+  <div class="flow mt-1">
+    <span class="flow-item"><span class="tag">Pacatos</span></span>
+    <span class="flow-item"><span class="tag blue">Desvelados</span></span>
+    <span class="flow-item"><span class="tag red">Marcados</span></span>
+    <span class="flow-item"><span class="tag yellow">Tecnomantes</span></span>
+  </div>
+  
+  <p class="mt-1">Cada um desses grupos traz consigo uma perspectiva única sobre a realidade e a magia, além de um papel específico dentro da sociedade oculta.</p>
 </div>
 
 <div class="card">
@@ -307,46 +417,68 @@ const pageContent = {
   <p>Os Pacatos são aqueles cujas vidas passadas estão mais próximas da experiência humana comum. Quando esses indivíduos se revelam diante do Véu, não abandonam suas rotinas cotidianas; ao contrário, continuam a desempenhar papéis típicos, como policiais, donos de restaurantes, músicos ou até mesmo profissionais como garis e pedreiros.</p>
   <div class="separator"></div>
   <p>A grande diferença em relação aos Desvelados é que os Pacatos, ao se voltarem para o Véu, geralmente não alteram suas vidas de maneira significativa. No entanto, essa descoberta de suas vidas passadas pode levá-los a uma nova compreensão de si mesmos, especialmente se continuarem a investigar o Véu.</p>
-  <div class="separator"></div>
-  <p class="small"><strong>Papel:</strong> Para os Pacatos, seu papel para manter o Véu intacto está em ser a limiar entre os Mundanos e os Espurcos. Eles podem viver entre Mundanos, sem gerar nenhum tipo perturbação ou sequer colocá-los em risco, assim como eles podem buscar dos outros grupos Espurcos um meio de trabalho e recursos valiosos para seus próprios fins.</p>
+  
+  <div class="rule-box">
+    <h3>Papel dos Pacatos</h3>
+    <p>Para os Pacatos, seu papel para manter o Véu intacto está em ser a <strong class="text-gold">limiar entre os Mundanos e os Espurcos</strong>.</p>
+    <p>Eles podem viver entre Mundanos, sem gerar nenhum tipo perturbação ou sequer colocá-los em risco, assim como eles podem buscar dos outros grupos Espurcos um meio de trabalho e recursos valiosos para seus próprios fins.</p>
+  </div>
 </div>
 
-<div class="card">
+<div class="card card-blue">
   <h2>Desvelados</h2>
   <div class="meta">Tradição • Hierarquia</div>
   <p>Os Desvelados compõem a maior parte da sociedade oculta que vive paralelamente à realidade. Eles mantêm costumes, conhecimentos e discussões que cercam o Véu, atuando como guardiões de suas verdades e tradições.</p>
   <div class="separator"></div>
   <p>Dentro desse grupo, há uma competição constante por status e influência, onde a <em>antiguidade da alma</em> é um fator determinante. Os Desvelados buscam não apenas preservar o Véu, mas também explorar seus mistérios, disputando espaço político e territorial.</p>
-  <div class="separator"></div>
-  <p class="small">A figura dos "Mundanos" é rara entre os Desvelados; considerados puros demais, mesmo que busquem a compreensão do Véu, eles enfrentam desdém e descrédito, muitas vezes vistos como imaturos em comparação com os mais experientes.</p>
+  
+  <div class="highlight subtle mt-1">
+    <p>A figura dos "Mundanos" é rara entre os Desvelados; considerados puros demais, mesmo que busquem a compreensão do Véu, eles enfrentam desdém e descrédito, muitas vezes vistos como imaturos em comparação com os mais experientes.</p>
+  </div>
 </div>
 
-<div class="card">
+<div class="card card-red">
   <h2>Marcados pelas Correntes</h2>
   <div class="meta">Marginalização • Perigo</div>
   <p>Os Marcados pelas Correntes são uma presença perturbadora na sociedade, frequentemente renegados a uma posição marginal. Eles vivem à margem das convenções sociais, seguindo um caminho que os leva a desafiar as normas estabelecidas.</p>
   <div class="separator"></div>
   <p>Essa escolha pode ser motivada por um ceticismo profundo em relação ao sistema dos Desvelados ou pelo fato de terem sido banidos de sua comunidade. Por causa de seus poderes assustadores e da maneira como provocam o Véu, os Marcados são temidos e evitados.</p>
-  <div class="separator"></div>
-  <p class="small">Suas vidas são frequentemente marcadas por uma busca por emancipação ou redenção, atuando como mercenários ou nômades, sempre à procura de um lugar onde possam se encaixar.</p>
+  
+  <div class="highlight mt-1">
+    <p>Suas vidas são frequentemente marcadas por uma busca por <strong>emancipação</strong> ou <strong>redenção</strong>, atuando como mercenários ou nômades, sempre à procura de um lugar onde possam se encaixar.</p>
+  </div>
 </div>
 
-<div class="card">
+<div class="card card-yellow">
   <h2>Tecnomantes</h2>
   <div class="meta">Ciência • Inovação</div>
   <p>Os Tecnomantes emergiram como uma resposta à necessidade de compreender e manipular o Véu de maneira mais sistemática. Este grupo, que começou a se organizar há aproximadamente meio milênio, aproveita os avanços tecnológicos para investigar o comportamento do Véu.</p>
   <div class="separator"></div>
   <p>Eles se organizam em <strong>"famílias"</strong>, que funcionam de maneira similar a máfias, com líderes e objetivos claros. Para ser aceito em uma dessas famílias, um indivíduo deve demonstrar um impacto significativo ou criar algo grandioso.</p>
-  <div class="separator"></div>
-  <p class="small"><strong>Perigo:</strong> Essa busca por aceitação pode ter consequências catastróficas — aqueles que falham em seus experimentos muitas vezes causam desastres na realidade, como as bombas nucleares e outras calamidades que deixaram marcas indeléveis no mundo.</p>
+  
+  <div class="rule-box">
+    <h3>⚠️ Perigo</h3>
+    <p>Essa busca por aceitação pode ter consequências catastróficas — aqueles que falham em seus experimentos muitas vezes causam desastres na realidade, como as bombas nucleares e outras calamidades que deixaram marcas indeléveis no mundo.</p>
+  </div>
 </div>
 
 <div class="card">
   <h2>Dinâmica entre Arquétipos</h2>
   <div class="meta">Conflito • Cooperação</div>
-  <p>Embora cada arquétipo tenha sua própria filosofia e métodos, as interações entre eles definem grande parte da tensão política e social do universo. Pacatos servem de ponte, Desvelados mantêm a ordem, Marcados desafiam o status quo, e Tecnomantes buscam revolucionar através da ciência.</p>
-  <div class="separator"></div>
-  <p>Essas facções podem cooperar em momentos de crise, mas frequentemente entram em conflito devido a diferenças ideológicas, territoriais ou de poder. Escolher um arquétipo define não apenas habilidades, mas alianças, inimigos e o papel do personagem no destino do mundo.</p>
+  <p>Embora cada arquétipo tenha sua própria filosofia e métodos, as interações entre eles definem grande parte da tensão política e social do universo.</p>
+  
+  <ul class="list bullet mt-1">
+    <li><strong>Pacatos</strong> servem de ponte</li>
+    <li><strong>Desvelados</strong> mantêm a ordem</li>
+    <li><strong>Marcados</strong> desafiam o status quo</li>
+    <li><strong>Tecnomantes</strong> buscam revolucionar através da ciência</li>
+  </ul>
+  
+  <div class="highlight subtle mt-1">
+    <p>Essas facções podem cooperar em momentos de crise, mas frequentemente entram em conflito devido a diferenças ideológicas, territoriais ou de poder.</p>
+  </div>
+  
+  <p class="mt-1 text-gold">Escolher um arquétipo define não apenas habilidades, mas alianças, inimigos e o papel do personagem no destino do mundo.</p>
 </div>
   `,
 
@@ -566,10 +698,19 @@ const pageContent = {
 };
 
 document.addEventListener("DOMContentLoaded", () => {
-  const links = document.querySelectorAll(".nav-links a");
+  const links = document.querySelectorAll(".nav-links a[data-page]");
   const content = document.getElementById("content-area");
   const mobileMenuToggle = document.querySelector(".mobile-menu-toggle");
   const navLinks = document.querySelector(".nav-links");
+  const mobileTabs = document.querySelectorAll(".mobile-tab");
+
+  // Marcar página atual no body
+  document.body.classList.add('page-lore');
+  
+  // Inicializar com lore visível
+  if (navLinks) {
+    navLinks.classList.add('show-lore');
+  }
 
   // Mobile menu toggle
   if (mobileMenuToggle) {
@@ -579,6 +720,26 @@ document.addEventListener("DOMContentLoaded", () => {
       document.body.style.overflow = navLinks.classList.contains("active") ? "hidden" : "";
     });
   }
+
+  // Mobile tabs toggle
+  mobileTabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const section = tab.dataset.section;
+      
+      // Atualizar abas ativas
+      mobileTabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      
+      // Alternar visibilidade dos grupos
+      if (section === 'lore') {
+        navLinks.classList.remove('show-ficha');
+        navLinks.classList.add('show-lore');
+      } else {
+        navLinks.classList.remove('show-lore');
+        navLinks.classList.add('show-ficha');
+      }
+    });
+  });
 
   function loadPage(page, push = true) {
     const pageData = pageContent[page];
