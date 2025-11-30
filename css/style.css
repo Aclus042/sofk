@@ -383,18 +383,18 @@ footer {
   }
 }
 
-/* Controle de visibilidade dos grupos de navegação no mobile */
+/* Controle de visibilidade dos grupos de navegação */
+/* Por padrão, esconder itens de ficha na página de lore */
+body.page-lore .nav-ficha {
+  display: none;
+}
+
+/* Por padrão, esconder itens de lore na página de ficha */
+body.page-ficha .nav-lore {
+  display: none;
+}
+
 @media (max-width: 768px) {
-  /* Por padrão, esconder itens de ficha na página de lore */
-  body.page-lore .nav-ficha {
-    display: none;
-  }
-  
-  /* Por padrão, esconder itens de lore na página de ficha */
-  body.page-ficha .nav-lore {
-    display: none;
-  }
-  
   /* Quando a aba lore está selecionada, mostrar lore e esconder ficha */
   .nav-links.show-lore .nav-lore {
     display: block !important;
