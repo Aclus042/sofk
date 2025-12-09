@@ -51,6 +51,37 @@ header {
   text-shadow: 0 1px 0 rgba(0,0,0,0.6);
 }
 
+.logo-group {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-sections-desktop {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.nav-sections-desktop .nav-section {
+  font-weight: 600;
+  color: var(--gold);
+  border: 1px solid rgba(202, 168, 92, 0.3);
+  background: rgba(202, 168, 92, 0.05);
+  text-decoration: none;
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+  transition: color 0.25s ease, background 0.25s ease;
+}
+
+.nav-sections-desktop .nav-section:hover {
+  background: rgba(202, 168, 92, 0.1);
+  color: var(--gold);
+}
+
+.nav-sections-desktop .nav-section.active {
+  background: rgba(202, 168, 92, 0.15);
+}
+
 .nav-links {
   list-style: none;
   display: flex;
@@ -76,29 +107,7 @@ header {
   box-shadow: inset 0 -2px 0 var(--gold);
 }
 
-.nav-links .nav-section {
-  font-weight: 600;
-  color: var(--gold);
-  border: 1px solid rgba(202, 168, 92, 0.3);
-  background: rgba(202, 168, 92, 0.05);
-}
 
-.nav-links .nav-section:hover {
-  background: rgba(202, 168, 92, 0.1);
-  color: var(--gold);
-}
-
-.nav-links .nav-section.active {
-  background: rgba(202, 168, 92, 0.15);
-  box-shadow: none;
-}
-
-.nav-divider {
-  width: 1px;
-  height: 20px;
-  background: rgba(255, 255, 255, 0.1);
-  margin: 0 0.5rem;
-}
 
 main {
   flex: 1;
@@ -233,11 +242,6 @@ footer {
   /* Esconder seções Lore/Ficha do menu mobile */
   .nav-sections-desktop {
     display: none !important;
-  }
-
-  /* Esconder divider no mobile */
-  .nav-divider {
-    display: none;
   }
 
   /* Container das abas mobile */
